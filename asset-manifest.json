@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/raviWorld/static/css/main.c72db67f.css",
+    "main.js": "/raviWorld/static/js/main.25a96166.js",
+    "static/media/app.png": "/raviWorld/static/media/app.45a8529470c9534323ef.png",
+    "static/media/web.jpg": "/raviWorld/static/media/web.19c39dedd8254a5dcdd0.jpg",
+    "static/media/digital_marketing.jpg": "/raviWorld/static/media/digital_marketing.0543378b05b3e4ce5808.jpg",
+    "static/media/software.jpg": "/raviWorld/static/media/software.d6e46cc6b5c48e5c4ce4.jpg",
+    "static/media/digital.jpg": "/raviWorld/static/media/digital.eba4d2493b03140e3d90.jpg",
+    "static/media/home.svg": "/raviWorld/static/media/home.5d500358eb102fd426348baf143483bc.svg",
+    "static/media/android.jpg": "/raviWorld/static/media/android.ea9aa6fe95c5117912aa.jpg",
+    "static/media/delivery.svg": "/raviWorld/static/media/delivery.3b5e906e184d2f9ff16116ddb3c5a689.svg",
+    "index.html": "/raviWorld/index.html",
+    "main.c72db67f.css.map": "/raviWorld/static/css/main.c72db67f.css.map",
+    "main.25a96166.js.map": "/raviWorld/static/js/main.25a96166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72db67f.css",
+    "static/js/main.25a96166.js"
+  ]
+}
