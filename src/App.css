@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+*{
+  margin: 0;padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+}
+button, button:focus{
+  border: none !important;
+}
+.navbar-brand{
+  font-size: 25px !important;
+  color: #565387 !important;
+}
+.navbar a{
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #565387 !important;
+}
+.navbar a:hover{
+  color: #3498db !important;
+}
+/* home page */
+.title{
+  font-size: 30px !important;
+  font-weight: 800 !important;
+}
+.brand-name{
+  color: rgb(48, 131, 240);
+}
+h4{
+  font-size: 19px !important;
+}
+.btn-get-started{
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: #3498db;
+  padding: 10px 30px;
+  text-align: center;
+  border: .8px solid #3498db;
+  transition: .5s;
+  border-radius: 50px;
+}
+.btn-get-started:hover{
+  color: #fff;
+  background-color: #3498db;
+}
+
+.header-img{
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+@keyframes up-down{
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
+
+@-webkit-keyframes up-down{
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
